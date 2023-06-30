@@ -10,7 +10,7 @@ This app contains the following functions:
 4.Analysis: data analysis ,pie chart,line chart
 5.Settings: set limited amount(by day,month,year)
 
-Attention:you need to install mamy Python packages(PyQt6,Qcharts......I install them in virtual envionment)please be patient wwwww
+Attention: The codes doesn't contain some neccessay tools.So you need to install mamy Python packages(PyQt6,Qcharts......I install them in virtual envionment) please be patient wwwww
 Thanks!!!
 
 
